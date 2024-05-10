@@ -12,7 +12,7 @@
 	<groupId>com.blood</groupId>
 	<artifactId>SB-MTestAssessment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>SB-MTestAssessment</name>
 	<description>Spring Boot Test - Blood Bank System</description>
 	<properties>
